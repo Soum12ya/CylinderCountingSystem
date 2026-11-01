@@ -83,9 +83,6 @@ Django receives the recognized registration number, searches the vehicle databas
                   ENTRY APPROVED
 ```
 
-<img width="1774" height="887" alt="AI-Powered Cylinder Inspection Workflow" src="https://github.com/user-attachments/assets/0a4975b6-37c6-4c2b-858b-224683aaafdc" />
-
-
 ---
 
 # 3. Step-by-Step Number Plate Recognition Process
