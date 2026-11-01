@@ -85,6 +85,9 @@ The Django application manages the inspection process, while the AI processing m
 12. The inspection is automatically approved or sent for human review.
 13. Django generates the final inspection report.
 
+<img width="1774" height="887" alt="AI-Powered Cylinder Inspection Workflow" src="https://github.com/user-attachments/assets/b9dc4586-e774-4989-ba01-d397f768bc2c" />
+
+
 ---
 
 # 3. Step-by-Step AI Counting Process
